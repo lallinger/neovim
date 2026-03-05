@@ -21,6 +21,9 @@ return {
         inline = {
           adapter = "gemini",
         },
+        cmd = {
+          adapter = "gemini",
+        },
       },
       adapters = {
         gpt5 = function()
