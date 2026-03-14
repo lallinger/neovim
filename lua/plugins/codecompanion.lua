@@ -6,7 +6,7 @@ return {
     "franco-ruggeri/codecompanion-spinner.nvim",
   },
   keys = {
-    { "<A-q>", "<cmd>CodeCompanionChat Toggle<cr>", mode = { "n" }, desc = "CodeCompanion Chat" },
+    { "<A-q>", "<cmd>CodeCompanionChat Toggle<cr>i", mode = { "n" }, desc = "CodeCompanion Chat" },
     { "<A-q>", "<cmd>:CodeCompanionChat Toggle<cr>", mode = { "i" }, desc = "CodeCompanion Chat" },
     { "<A-q>", ":CodeCompanionChat Add<cr>i", mode = { "v" }, desc = "CodeCompanion Chat" },
     { "<A-Q>", ":CodeCompanion<cr>", mode = { "v" }, desc = "CodeCompanion File" },
